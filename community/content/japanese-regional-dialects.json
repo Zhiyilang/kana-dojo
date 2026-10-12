@@ -426,4 +426,12 @@
   "region": "Kansai",
   "note": "Now used nationwide. (Set 5)"
 }
+,
+  {
+    "dialect": "〜ずら",
+    "standardJapanese": "〜だ/です",
+    "english": "casual sentence-ending particle of assertion",
+    "region": "Nagano (Shinshu)",
+    "note": "Common casual sentence-ending particle in Nagano Prefecture speech; softens a statement informally."
+  }
 ]
